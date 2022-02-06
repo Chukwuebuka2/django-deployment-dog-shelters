@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f739bab7-be3b-4ab9-94b6-055849bab136/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ebuka-app",
+    "appService.deploySubpath": "."
+}
